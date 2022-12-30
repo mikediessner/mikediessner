@@ -3,7 +3,13 @@
 I’m a second-year PhD candidate in Computing at Newcastle University in the UK. As part of the Cloud Computing for Big Data CDT, I research how Bayesian optimisation frameworks can be utilised to optimise expensive-to-evaluate black box functions with applications in engineering, particularly fluid dynamics.  
 
 
-## Languages and Tools
+## Short biography
+  - 2018: BSc in Economics from the University of Bonn, Germany
+  - 2020: MSc in Applied Data Science and Statistics from the University of Exeter, UK
+  - Currently: PhD candidate in Computing at Newcastle University, UK  
+ 
+ 
+## Languages and tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -17,3 +23,13 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+<br/>
+<br/>
+
+
+## Research interests
+  - Machine learning
+  - Optimisation
+  - Computer emulators
+  - Data-driven engineering
+  - Bayesian statistics
