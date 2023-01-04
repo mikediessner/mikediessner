@@ -35,4 +35,5 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
   - Bayesian statistics
 
 
+## GitHub statistics
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikediessner&show_icons=true&theme=transparent&count_private=true)
