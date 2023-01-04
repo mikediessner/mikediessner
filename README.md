@@ -36,4 +36,4 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
 
 
 ## GitHub statistics
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikediessner&show_icons=true&count_private=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mikediessner&show_icons=true&count_private=true&bg_color=0000000)
