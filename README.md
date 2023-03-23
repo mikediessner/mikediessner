@@ -10,7 +10,6 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
  
  
 ## Languages and tools
-
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -26,6 +25,9 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
 <br/>
 <br/>
 
+
+## GitHub stats
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikediessner&count_private=true)
 
 ## Research interests
   - Machine learning
