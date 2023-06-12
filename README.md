@@ -26,9 +26,6 @@ I’m a second-year PhD candidate in Computing at Newcastle University in the UK
 <br/>
 
 
-## GitHub stats
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikediessner&count_private=true)
-
 ## Research interests
   - Machine learning
   - Optimisation
