@@ -1,6 +1,6 @@
 # About me
 
-I’m a second-year PhD candidate in Computing at Newcastle University in the UK. As part of the Cloud Computing for Big Data CDT, I research how Bayesian optimisation frameworks can be utilised to optimise expensive-to-evaluate black box functions with applications in engineering, particularly fluid dynamics.  
+I’m a third-year PhD candidate in Computing at Newcastle University in the UK. As part of the Cloud Computing for Big Data CDT, I research how Bayesian optimisation frameworks can be utilised to optimise expensive-to-evaluate black-box functions with application in engineering, particularly fluid dynamics.  
 
 
 ## Short biography
